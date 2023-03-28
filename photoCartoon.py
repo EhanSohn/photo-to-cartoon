@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-# photo to cartoon using ChatGPS
+# photo to cartoon using ChatGPT
 img = cv.imread('flowers.png')
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 gray = cv.medianBlur(gray, 3)
