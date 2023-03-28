@@ -15,4 +15,4 @@ You can compare the differences below.
 
 - Using k-means
 
-<img width="600" alt="cartoonKmeans" src="https://user-images.githubusercontent.com/127037304/228212027-a586bd16-6eb9-4c4b-b636-cfa874927f09.png">
+<img width="600" alt="cartoonKmeans" src="https://user-images.githubusercontent.com/127037304/228217270-9b4bfde0-448d-44f9-9bee-6609be2a3e49.png">
