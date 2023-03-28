@@ -3,7 +3,7 @@
 
 Simple photo to cartoon using image processing.
 
-photoCartoon.py is a code by ChatGPS using detecting edges and applying median blur.
+photoCartoon.py is a code by ChatGPT using detecting edges and applying median blur.
 
 photoCartoonKmeans.py is a code using k-means algorithm.
 
